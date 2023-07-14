@@ -18,7 +18,7 @@ To get started with the Python Flappy Bird Game, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/akshupande/Flappy-Bird-Game.git`
 2. Navigate to the project directory: `cd Flappy-Bird-Game`
-3. Install the required dependencies: `pip install module_name`
+3. Install the required dependencies: `pip install pygame/random`
 4. Run the game: `python Flappy-Bird-Game.py`
 
 ## Usage
